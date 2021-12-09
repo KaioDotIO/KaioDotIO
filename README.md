@@ -12,12 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Currently learning:
+### Main Stack:
 
 <p>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </p>
 
 ### Currently learning:
