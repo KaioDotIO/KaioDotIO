@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 
 <p>
     <a href="https://www.linkedin.com/in/kaioribeiro/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <img src="https://img.icons8.com/fluency/48/000000/email-open.png"/>
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
 </p>
