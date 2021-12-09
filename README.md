@@ -1,3 +1,4 @@
+### Hello there!
 **KaioDotIO/KaioDotIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
