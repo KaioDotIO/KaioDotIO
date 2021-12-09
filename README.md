@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Currently learning:
+
 <p>
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
