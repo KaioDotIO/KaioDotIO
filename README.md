@@ -33,3 +33,10 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
+
+### Contact Me:
+
+<p>
+    <a href="https://www.linkedin.com/in/kaioribeiro/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
+</p>
