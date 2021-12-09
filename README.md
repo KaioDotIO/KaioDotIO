@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Main Stack:
+### Main stack:
 
 <p>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
 
-### Contact Me:
+### Contact me:
 
 <p>
     <a href="https://www.linkedin.com/in/kaioribeiro/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-    <img src="https://img.icons8.com/fluency/48/000000/email-open.png"/>
+    <a href="mailto:webmaster@example.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
 </p>
