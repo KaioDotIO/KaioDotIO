@@ -20,8 +20,8 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/50/000000/webpack.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+    
 
 </p>
 
@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 <p>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png"/>
+    <img src="https://img.icons8.com/color/50/000000/webpack.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-color-tal-revivo.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
 </p>
 
@@ -37,7 +41,6 @@ Here are some ideas to get you started:
 <p>
     <img src="https://img.icons8.com/color/50/000000/vue-js.png"/>
     <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-    <img src="https://img.icons8.com/color/50/000000/react-native.png"/>
 </p>
 
 ### Contact me:
