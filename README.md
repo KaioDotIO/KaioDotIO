@@ -21,8 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-    
-
+    <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 </p>
 
 ### Developer tools:
