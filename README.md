@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <p>
     <img src="https://img.icons8.com/color/50/000000/vue-js.png"/>
     <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 </p>
 
 ### Contact me:
