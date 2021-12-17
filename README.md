@@ -38,9 +38,7 @@ Here are some ideas to get you started:
 ### Learning:
 
 <p>
-    <img src="https://img.icons8.com/color/50/000000/vue-js.png"/>
-    <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+    <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png"/>
 </p>
 
 ### Contact me:
