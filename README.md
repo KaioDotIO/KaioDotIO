@@ -2,7 +2,7 @@
 **KaioDotIO/KaioDotIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<script>console.log("teste")</script>
 - 🔭 I’m currently working ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 </p>
 
-### Developer tools:
+### Tools:
 
 <p>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
