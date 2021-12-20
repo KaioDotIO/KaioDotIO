@@ -9,6 +9,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p>
+    <p><img src="https://img.icons8.com/external-itim2101-flat-itim2101/24/000000/external-coding-computer-technology-itim2101-flat-itim2101.png"/> I’m currently working as Front End Developer at Agência Digital M3</p>
+</p>
+
 <p>Main Stack</p>
 <p>
     <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/>
