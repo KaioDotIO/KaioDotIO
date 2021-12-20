@@ -28,19 +28,19 @@ Here are some ideas to get you started:
 <p>
     <img src="https://img.icons8.com/color/24/000000/git.png"/>
     <img src="https://img.icons8.com/color/24/000000/webpack.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-color-tal-revivo.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-color-tal-revivo.png"/>
 </p>
 
 ### Learning:
 
 <p>
     <img src="https://img.icons8.com/color/24/000000/graphql.png"/>
-    <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png"/>
+    <img src="https://img.icons8.com/color/24/000000/gatsbyjs.png"/>
 </p>
 
 ### Contact me:
 
 <p>
-    <a href="https://www.linkedin.com/in/kaioribeiro/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-    <a href="mailto:ribeiro.kaio@outlook.com.br"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
+    <a href="https://www.linkedin.com/in/kaioribeiro/" target="_blank"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/></a>
+    <a href="mailto:ribeiro.kaio@outlook.com.br"><img src="https://img.icons8.com/fluency/24/000000/email-open.png"/></a>
 </p>
