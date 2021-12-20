@@ -26,12 +26,9 @@ Here are some ideas to get you started:
 ### Tools:
 
 <p>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/color/50/000000/webpack.png"/>
+    <img src="https://img.icons8.com/color/24/000000/git.png"/>
+    <img src="https://img.icons8.com/color/24/000000/webpack.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
 </p>
 
 ### Learning:
