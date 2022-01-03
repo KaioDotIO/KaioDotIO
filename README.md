@@ -1,6 +1,6 @@
 ### Welcome to my github! <img src="https://img.icons8.com/emoji/48/000000/waving-hand-medium-skin-tone.png"/>
 
-My name is Kaio, I'm a Front end Developer at *Agência Digital M3* and aspiring Mobile Developer. I'm 21 years old and 2 of coding. Specialist in VTEX E-commerce's development since 2021.
+My name is Kaio, I'm a Front end Developer at *Agência Digital M3* since 2021. I'm 21 years old and 2 of coding. Specialist in VTEX E-commerce's development since 2021.
 
 <p>I'm focusing on...</p>
 <p>
@@ -8,11 +8,9 @@ My name is Kaio, I'm a Front end Developer at *Agência Digital M3* and aspiring
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/dart.png"/>
-    <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+    <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 </p>
 
 <p>Tools</p>
