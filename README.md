@@ -14,7 +14,6 @@ My name is Kaio, I'm a Front end Developer at *Agência Digital M3* since 2021. 
 <p>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
 </p>
 
