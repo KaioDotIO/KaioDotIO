@@ -19,6 +19,6 @@ My name is Kaio, aspiring Android Developer. I'm a Front end Developer at *Agên
 
 <p>Contact me</p>
 <p>
-    <a href="https://www.linkedin.com/in/kaioribeiro/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/kaioribeiro/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
     <a href="mailto:ribeiro.kaio@outlook.com.br"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
 </p>
