@@ -1,16 +1,13 @@
 ### Welcome to my github! <img src="https://img.icons8.com/emoji/48/000000/waving-hand-medium-skin-tone.png"/>
 
-My name is Kaio, aspiring Mobile Developer. I'm a Front end Developer at *Agência Digital M3*. I'm 21 years old and 2 of coding. Specialist in VTEX E-commerce's development since 2021.
+My name is Kaio, aspiring Android Developer. I'm a Front end Developer at *Agência Digital M3*. I'm 21 years old and 2 of coding. Specialist in VTEX E-commerce's development since 2021.
 
 <p>I'm focusing on...</p>
 <p>
-     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-     <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
-     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-     <img src="https://img.icons8.com/color/48/000000/dart.png"/>
-     <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+     <img src="https://img.icons8.com/color-glass/48/000000/android-os.png"/>
+     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>
 
 <p>Tools</p>
