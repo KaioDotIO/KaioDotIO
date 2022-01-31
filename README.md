@@ -1,6 +1,6 @@
 ### Welcome to my github! <img src="https://img.icons8.com/emoji/48/000000/waving-hand-medium-skin-tone.png"/>
 
-My name is Kaio, aspiring Android Developer. I'm a Front end Developer at *Agência Digital M3*. I'm 21 years old and 2 of coding. Specialist in VTEX E-commerce's development since 2021.
+My name is Kaio, aspiring Python Developer. I'm a Front end Developer at *Agência Digital M3*. I'm 21 years old and 2 of coding. Specialist in VTEX E-commerce's development since 2021.
 
 <p>I'm focusing on...</p>
 <p>
