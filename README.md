@@ -12,6 +12,9 @@ My name is Kaio, aspiring Python Developer. I'm a Front end Developer at *Agênc
      <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
      <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
      <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+
+
 </p>
 
 <p>Tools</p>
