@@ -4,13 +4,14 @@ My name is Kaio, aspiring Python Developer. I'm a Front end Developer at *Agênc
 
 <p>I'm focusing on...</p>
 <p>
-     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-     <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
-     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-     <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-     <img src="https://img.icons8.com/color/48/000000/django.png"/>
-     <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </p>
 
 <p>Tools</p>
