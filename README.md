@@ -4,10 +4,10 @@ My name is Kaio, aspiring Android Developer. I'm a Front end Developer at *Agên
 
 <p>I'm focusing on...</p>
 <p>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+     <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+     <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+     <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+     <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
 
 <p>Tools</p>
