@@ -1,20 +1,13 @@
 ### Welcome to my github! <img src="https://img.icons8.com/emoji/48/000000/waving-hand-medium-skin-tone.png"/>
 
-My name is Kaio, aspiring Python Developer. I'm a Front end Developer at *Agência Digital M3*. I'm 21 years old and 2 of coding. Specialist in VTEX E-commerce's development since 2021.
+My name is Kaio, aspiring Android Developer. I'm a Front end Developer at *Agência Digital M3*. I'm 21 years old and 2 of coding. Specialist in VTEX E-commerce's development since 2021.
 
 <p>I'm focusing on...</p>
 <p>
-     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-     <img style="width: 48px; height: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-
-
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
 
 <p>Tools</p>
