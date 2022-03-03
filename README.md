@@ -16,10 +16,11 @@ My name is Kaio, aspiring Mid Level. I'm a Front end Developer at *Agência Digi
 
 </p>
 
-<p>Tools</p>
+<p>Learning...</p>
 <p>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+    <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+    <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+
 </p>
 
 <p>Contact me</p>
