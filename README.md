@@ -11,6 +11,8 @@ My name is Kaio, aspiring Mid Level. I'm a Front end Developer at *Agência Digi
      <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
      <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
      <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+     <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+
 
 </p>
 
