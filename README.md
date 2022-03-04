@@ -17,5 +17,5 @@ My name is Kaio, aspiring Android Developer. I'm a Front end Developer at *Agên
 <p>
     <a><img src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a>
     <a target="blank_" href="https://www.linkedin.com/in/kaioribeiro/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-    <a href="mailto:ribeiro.kaio@outlook.com.br"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
+    <a href="discordapp.com/users/Kaio#9502" href="mailto:ribeiro.kaio@outlook.com.br"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
 </p>
