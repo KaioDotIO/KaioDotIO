@@ -7,7 +7,6 @@ My name is Kaio, aspiring Android Developer. I'm a Front end Developer at *Agên
     <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
