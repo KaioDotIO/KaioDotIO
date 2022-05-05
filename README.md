@@ -6,7 +6,6 @@ My name is Kaio, Android Developer. I'm 21 years old and 2 of coding. Specialist
 <p>
     <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
