@@ -1,6 +1,6 @@
 ### Welcome to my github! <img src="https://img.icons8.com/emoji/48/000000/waving-hand-medium-skin-tone.png"/>
 
-My name is Kaio, Android Developer. I'm 21 years old and 2 of coding. Specialist in Android App's development.
+My name is Kaio, Android Engineer at Bravi. I'm 21 years old and 2 of coding. Specialist in Android App's development.
 
 <p>I'm focusing on...</p>
 <p>
