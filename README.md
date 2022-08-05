@@ -11,6 +11,6 @@ My name is Kaio, Android Engineer at Bravi. I'm 21 years old and 2 of coding. Sp
 
 <h3>:earth_americas:Let's make network?</h3>
 <p>
-:globe_with_meridians: <a href="https://www.linkedin.com/in/kaioribeiro/"><b>LinkedIn</b></a> for job proposals <br>
+:globe_with_meridians: <a href="https://www.linkedin.com/in/kaioribeiro/" target="_blank"><b>LinkedIn</b></a> for job proposals <br>
 :speech_balloon: <b>Discord</b> for partnerships and projects <br>
 </p>
