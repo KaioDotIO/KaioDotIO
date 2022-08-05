@@ -1,18 +1,15 @@
-### Welcome to my github! <img src="https://img.icons8.com/emoji/48/000000/waving-hand-medium-skin-tone.png"/>
+<h2>:comet:Hi, I'm Kaio:comet:</h2>
 
 My name is Kaio, Android Engineer at Bravi. I'm 21 years old and 2 of coding. Specialist in Android App's development.
 
-<p>I'm focusing on...</p>
+<b>:computer: I've worked with:</b>
 <p>
-    <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
-    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+    Kotlin - Jetpack Compose - MVVM
 </p>
 
 </p>
 
-<p>Contact me</p>
+<h3><b>:earth_americas:Let's make network?</b></h3>
 <p>
     <a><img src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a>
     <a target="blank_" href="https://www.linkedin.com/in/kaioribeiro/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
