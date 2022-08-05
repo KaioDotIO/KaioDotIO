@@ -1,4 +1,4 @@
-<h2 style="text-align:center;">:comet:Hi, I'm Kaio:comet:</h2>
+<h2 align="center">:comet:Hi, I'm Kaio:comet:</h2>
 
 My name is Kaio, Android Engineer at Bravi. I'm 21 years old and 2 of coding. Specialist in Android App's development.
 
