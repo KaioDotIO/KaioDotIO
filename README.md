@@ -1,4 +1,4 @@
-<h3 align="center">:comet:Hi, I'm Kaio César:comet:</h3>
+<h3 align="center">:comet: Hi, I'm Kaio César :comet:</h3>
 <h4 align="center">Android Engineer</h4>
 
 
