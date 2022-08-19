@@ -1,11 +1,7 @@
 <h3 align="center">:comet: Hi, I'm Kaio César :comet:</h3>
 <h4 align="center">Android Engineer</h4>
 
-
-
-
-
-In parallel with the last semester of my first degree in Systems Analysis and Development, I have been facing a new phase in my career working as Android Developer at Bravi with the objective of creating solutions in order to provide a positive impact on the lives of my users. applications. As a Developer, I've been using all my Hard Skills to build mobile applications of the most variable types using desing patters like MVVM, MVP and modern tools like Jetpack Compose, Coroutines, Retrofit, Room Database.
+I'm Kaio César and Brazilian, currently I'm a Software Engineer working at Bravi, passionate about solving problems with technology and creating Mobile Apps.
 
 <h4>:computer: I've worked with:</h4>
 <div>
