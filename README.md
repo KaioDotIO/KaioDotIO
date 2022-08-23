@@ -3,7 +3,7 @@
 
 I'm Kaio César and Brazilian, currently I'm a Software Engineer working at Bravi, passionate about solving problems with technology and creating Mobile Apps.
 
-<h4>:computer: I've worked with:</h4>
+<h4>:computer: I've worked using:</h4>
 <div>
     <img width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
     <img width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
