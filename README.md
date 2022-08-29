@@ -1,7 +1,6 @@
-<h3 align="center">:comet: Hi, I'm Kaio César :comet:</h3>
-<h4 align="center">Android Engineer</h4>
+![Kaio César - GitHub](https://user-images.githubusercontent.com/93557244/187202928-8ef4a086-2e45-4627-9c7e-d0fc7c60209e.png)
 
-I'm Kaio César and Brazilian, currently I'm a Software Engineer working at Bravi, passionate about solving problems with technology and creating Mobile Apps.
+
 
 <h4>:computer: I've worked using:</h4>
 <div>
