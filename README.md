@@ -1,4 +1,4 @@
-![Kaio César - GitHub](https://user-images.githubusercontent.com/93557244/187202928-8ef4a086-2e45-4627-9c7e-d0fc7c60209e.png)
+![Kaio César - GitHub](https://gcdnb.pbrd.co/images/ZAlB0Tc0snWH.png?o=1)
 
 <h2>About me :computer:</h2>
 <p>
