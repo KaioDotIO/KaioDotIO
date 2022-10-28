@@ -11,9 +11,11 @@ At the beginning of the year 2022, I decided to focus my career as a Software De
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
     <img src="https://img.icons8.com/color/48/000000/webpack.png"/>
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </div>
 
 
