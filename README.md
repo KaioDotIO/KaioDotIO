@@ -8,12 +8,13 @@ At the beginning of the year 2022, I decided to focus my career as a Software De
 </p>
 
 <h2>Experiences</h2>
-<small><b>Agência Digital M3 | Jan/2021 - Apr/2022</b></small></br>
-- Trabalhei como densevolvedor Front-end criando sites E-commerce's na plataforma VTEX utlizando a Stack <b>HTML, CSS and VanillaJs.<br/>
-<small><b>Bravi - (May/2022 - Moment)</b></small></br>
--><br>
-|<br>
-->
+<h3><b>Agência Digital M3 | Jan/2021 - Apr/2022</b></h3></br>
+- Trabalhei como densevolvedor Front-end criando sites E-commerce's na plataforma VTEX utlizando a Stack <b>HTML, CSS and VanillaJs.]
+<br/>
+</br>
+<h3><b>Bravi | May/2022 - Moment</b></h3>
+- 
+
 <h2>What I use</h2>
 
 <div>
