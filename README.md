@@ -1,5 +1,5 @@
-![Kaio César - GitHub](https://gcdnb.pbrd.co/images/ZAlB0Tc0snWH.png?o=1)
-
+<h2>Greetings, visitor. My name is...</h2>
+<img src="/img_kaio.png" alt="My cool logo"/>
 <h2>About me :computer:</h2>
 <p>
 My name is Kaio Cesar. I am graduated in Systems Analysis and Development at Universidade Estácio de Sá.
