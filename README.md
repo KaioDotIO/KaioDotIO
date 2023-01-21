@@ -1,4 +1,4 @@
-<h2>Greetings, visitor. My name is...</h2>
+<h2>Greetings 👋🏾, My name is...</h2>
 <img src="/img_kaio.png" alt="My cool logo"/>
 <h2>About me :computer:</h2>
 <p>
