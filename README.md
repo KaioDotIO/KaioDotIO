@@ -15,16 +15,28 @@ Trabalhei como densevolvedor Front-end criando sites E-commerce's na plataforma 
 <h3><b>Bravi | May/2022 - Moment</b></h3>
 
 <h2>What I use</h2>
-
+<h3>Languages</h3><small>(Programming, Markup, query...)</small>
 <div>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/null/sass-avatar.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/48/null/graphql.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
+</div>
+
+<h3>Frameworks & Libraries</h3>
+<div>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
+</div>
+
+<h3>stylization</h3>
+<div>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/null/sass-avatar.png"/>
+</div>
+
+<h3>More Tools</h3>
+<div>
     <img src="https://img.icons8.com/color/48/000000/webpack.png"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </div>
