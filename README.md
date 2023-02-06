@@ -1,7 +1,7 @@
 <img src="/img_kaio.png" alt="My cool logo"/>
 <h2>About me :computer:</h2>
 <p>
-My name is Kaio Cesar. I am graduated in Systems Analysis and Development at Universidade Estácio de Sá.
+My name is Kaio Cesar. I am graduated in Systems Analysis and Development at Universidade Estácio de Sá, and Developer with +2 years of experience. I'm my journey I'v worked buiding E-commerce's using VTEX Platform, Educational softwares using Canvas Platform and worked as Android Developer for a big language learning App.
 </p>
 
 <h2>What I use</h2>
