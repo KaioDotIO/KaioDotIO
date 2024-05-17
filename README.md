@@ -7,6 +7,7 @@ My name is Kaio Cesar. I am graduated in Systems Analysis and Development at Uni
     <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img  src="https://img.icons8.com/fluency/48/node-js.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/express-js.png" />
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
     <img src="https://img.icons8.com/color/48/null/firebase.png"/>
 </div>
